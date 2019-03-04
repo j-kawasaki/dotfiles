@@ -1,0 +1,425 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1551696331,,"wq"
+:q!
+|2,0,1551696327,,"q!"
+:q
+|2,0,1551692813,,"q"
+:qw
+|2,0,1551245095,,"qw"
+::q!
+|2,0,1551122583,,":q!"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"1	LINE	0
+	
+|3,0,1,1,1,0,1551248881,""
+"2	LINE	0
+	
+|3,0,2,1,1,0,1551248881,""
+"3	LINE	0
+	
+|3,0,3,1,1,0,1551248881,""
+"4	LINE	0
+	
+|3,0,4,1,1,0,1551248880,""
+"5	LINE	0
+	
+|3,0,5,1,1,0,1551158665,""
+"6	CHAR	0
+	# コマンド定義
+	alias bcd='cd $OLDPWD'
+	alias ls='ls -CF'
+	alias ll='ls -AlFh --show-control-chars --color=auto'
+	alias la='ls -CFal'
+	alias mv='mv -i'
+	alias rm='rm -i'
+	alias cp='cp -i'
+	alias sc='screen'
+	alias ps='ps --sort=start_time'
+	alias ..='cd ..'
+	
+	# cmdで開かないと行けないプログラム
+	alias hyper='cmd.exe /c hyper'
+	
+	
+	
+|3,0,6,0,17,0,1551158663,"# コマンド定義","alias bcd='cd $OLDPWD'","alias ls='ls -CF'","alias ll='ls -AlFh --show-control-chars --color=auto'","alias la='ls -CFal'","alias mv='mv -i'","alias rm='rm -i'","alias cp='cp -i'","alias sc='screen'","alias ps='ps --sort=start_time'","alias ..='cd ..'","","# cmdで開かないと行けないプログラム","alias hyper='cmd.exe /c hyper'","","",""
+""-	CHAR	0
+	s
+|3,1,36,0,1,0,1551537311,"s"
+
+# ファイルマーク:
+'0  1  0  ~/dotfiles/Makefile
+|4,48,1,0,1551696331,"~/dotfiles/Makefile"
+'1  14  0  ~/dotfiles/Makefile
+|4,49,14,0,1551696327,"~/dotfiles/Makefile"
+'2  14  0  ~/dotfiles/Makefile
+|4,50,14,0,1551696327,"~/dotfiles/Makefile"
+'3  1  0  /home/kawasaki/.ssh/config
+|4,51,1,0,1551692813,"/home/kawasaki/.ssh/config"
+'4  43  0  ~/.bash_profile
+|4,52,43,0,1551538001,"~/.bash_profile"
+'5  9  22  ~/.pyenv/shims/pip
+|4,53,9,22,1551537666,"~/.pyenv/shims/pip"
+'6  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,54,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+'7  25  0  ~/.pyenv/pyenv.d/exec/pip-rehash/pip
+|4,55,25,0,1551537531,"~/.pyenv/pyenv.d/exec/pip-rehash/pip"
+'8  14  0  ~/.pyenv/pyenv.d/exec/pip-rehash/pip
+|4,56,14,0,1551537462,"~/.pyenv/pyenv.d/exec/pip-rehash/pip"
+'9  14  0  ~/.pyenv/pyenv.d/exec/pip-rehash/pip
+|4,57,14,0,1551537462,"~/.pyenv/pyenv.d/exec/pip-rehash/pip"
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  ~/dotfiles/Makefile
+|4,39,1,0,1551696331,"~/dotfiles/Makefile"
+-'  14  0  ~/dotfiles/Makefile
+|4,39,14,0,1551696327,"~/dotfiles/Makefile"
+-'  14  0  ~/dotfiles/Makefile
+|4,39,14,0,1551696327,"~/dotfiles/Makefile"
+-'  44  0  ~/dotfiles/Makefile
+|4,39,44,0,1551696309,"~/dotfiles/Makefile"
+-'  44  0  ~/dotfiles/Makefile
+|4,39,44,0,1551696309,"~/dotfiles/Makefile"
+-'  1  0  /home/kawasaki/.ssh/config
+|4,39,1,0,1551692813,"/home/kawasaki/.ssh/config"
+-'  1  0  /home/kawasaki/.ssh/config
+|4,39,1,0,1551692813,"/home/kawasaki/.ssh/config"
+-'  1  0  /home/kawasaki/.ssh/config
+|4,39,1,0,1551692813,"/home/kawasaki/.ssh/config"
+-'  1  0  /home/kawasaki/.ssh/config
+|4,39,1,0,1551692813,"/home/kawasaki/.ssh/config"
+-'  43  0  ~/.bash_profile
+|4,39,43,0,1551538001,"~/.bash_profile"
+-'  43  0  ~/.bash_profile
+|4,39,43,0,1551538001,"~/.bash_profile"
+-'  43  0  ~/.bash_profile
+|4,39,43,0,1551538001,"~/.bash_profile"
+-'  43  0  ~/.bash_profile
+|4,39,43,0,1551538001,"~/.bash_profile"
+-'  43  0  ~/.bash_profile
+|4,39,43,0,1551538001,"~/.bash_profile"
+-'  43  0  ~/.bash_profile
+|4,39,43,0,1551538001,"~/.bash_profile"
+-'  43  0  ~/.bash_profile
+|4,39,43,0,1551538001,"~/.bash_profile"
+-'  43  0  ~/.bash_profile
+|4,39,43,0,1551538001,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1551537975,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1551537975,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1551537975,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1551537975,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1551537975,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1551537975,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1551537975,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1551537975,"~/.bash_profile"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  9  22  ~/.pyenv/shims/pip
+|4,39,9,22,1551537666,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  1  0  ~/.pyenv/shims/pip
+|4,39,1,0,1551537630,"~/.pyenv/shims/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  11  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,11,0,1551537586,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  1  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,1,0,1551537574,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  1  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,1,0,1551537574,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  1  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,1,0,1551537574,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  1  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,1,0,1551537574,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  1  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,1,0,1551537574,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  1  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,1,0,1551537574,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  1  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,1,0,1551537574,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  1  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,1,0,1551537574,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  1  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,1,0,1551537574,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  1  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,1,0,1551537574,"~/.pyenv/versions/3.7.1/bin/pip"
+-'  1  0  ~/.pyenv/versions/3.7.1/bin/pip
+|4,39,1,0,1551537574,"~/.pyenv/versions/3.7.1/bin/pip"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/dotfiles/Makefile
+	*	1551696329	0
+	"	1	0
+	^	14	0
+	.	14	0
+	+	43	143
+	+	12	0
+	+	14	0
+
+> /home/kawasaki/.ssh/config
+	*	1551692811	0
+	"	1	0
+	.	1	0
+	+	1	29
+	+	1	0
+
+> ~/.bash_profile
+	*	1551537999	0
+	"	43	0
+	^	41	19
+	.	40	0
+	+	55	0
+	+	53	0
+	+	57	0
+	+	58	0
+	+	59	0
+	+	60	0
+	+	58	15
+	+	40	18
+	+	41	19
+	+	40	19
+	+	41	0
+	+	40	0
+
+> ~/.pyenv/shims/pip
+	*	1551537659	0
+	"	9	22
+
+> ~/.pyenv/versions/3.7.1/bin/pip
+	*	1551537578	0
+	"	11	0
+
+> ~/.pyenv/pyenv.d/exec/pip-rehash/pip
+	*	1551537528	0
+	"	25	0
+
+> ~/git/Python-Battle-Grounds/2client_open.psh
+	*	1551526061	0
+	"	4	17
+	^	4	18
+	.	4	17
+	+	4	17
+
+> ~/.zshrc
+	*	1551307633	0
+	"	165	0
+
+> ~/git/shooting_simulator/README.md
+	*	1551282203	0
+	"	84	8
+	^	84	9
+	.	84	8
+	+	73	21
+	+	74	0
+	+	76	23
+	+	88	3
+	+	86	8
+	+	80	8
+	+	81	0
+	+	82	3
+	+	78	7
+	+	80	11
+	+	84	8
+	j	1	0
+
+> ~/.config/fish/functions/fisher.fish
+	*	1551251466	0
+	"	29	0
+
+> ~/git/shooting_simulator/server/jikkou.sh
+	*	1551242875	0
+	"	1	0
+
+> ~/git/tes/shooting_simulator/server/jikkou.sh
+	*	1551177562	0
+	"	1	0
+	^	9	13
+	.	9	12
+	+	7	5
+	+	6	11
+	+	7	12
+	+	8	12
+	+	9	12
+
+> ~/.vimrc
+	*	1551172898	0
+	"	68	0
+
+> ~/.config/fish/config.fish
+	*	1551122610	0
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	16
+
+> ~/.config/fish/fish
+	*	1551122577	0
+	"	1	0
+
+> ~/.config/fish/fish_variables
+	*	1551120891	0
+	"	14	0
+
+> ~/.bashrc
+	*	1551120536	0
+	"	17	0
+	^	17	0
+	.	16	3
+	+	2	0
+	+	16	3
+
+> ~/1
+	*	1551117586	0
+	"	1	0
+
+> /etc/passwd
+	*	1551114423	0
+	"	30	42

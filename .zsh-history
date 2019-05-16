@@ -1,0 +1,630 @@
+apt search neovim
+sudo apt install neovim
+ls
+ll
+vim .zshrc
+ls
+la
+powerline-shell --generate-config > ~/.powerline-shell.json
+vim .powerline-shell.json
+vim .powerline-shell.json
+vim .powerline-shell.json
+ls
+ll
+la
+cd .pyenv
+ls
+vim .powerline-shell.json
+cd
+vim .powerline-shell.json
+vim .powerline-shell.json
+vim .powerline-shell.json
+vim .powerline-shell.json
+cd .pyenv
+ls
+cd..
+..
+ls
+ls
+vim .zshrc
+source .zshrc
+vim .zshrc
+vim .zshrc
+source .zshrc
+vim
+ls
+ls
+la
+ls
+mkdir -p ~/.vim/bundle
+curl https://raw.githubusercontent.com/Shougo/dein.vim/master/bin/installer.sh > installer.sh
+sh installer.sh ~/.vim/bundle
+vim .vimrc
+vim .vimrc
+vim .vimrc
+ls
+vim
+ls
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+ls
+ls
+rm installer.sh
+vim install.md
+vim .vimrc
+nvim 
+ls
+cd .cache
+ls
+ll
+..
+cd .vim
+ll
+cd bundle
+ll
+..
+..
+ls
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim 
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+ls
+vim .vimrc
+;ls
+l;s
+ls
+cd .vim/bundle
+ll
+vim repos
+cd repos
+ls
+cd github.com
+ls
+ll
+cd sh
+cd Shougo
+ls
+..
+.cd
+cd
+ls
+vim
+ls
+vim
+vim
+;s
+ll
+cd .vim
+ls
+rm -rf  bundle
+ls
+..
+cd
+mkdir .vim/dein
+cd .
+cd .vim/dein
+ls
+..
+cd
+curl https://raw.githubusercontent.com/Shougo/dein.vim/master/bin/installer.sh > installer.sh
+ll
+sh ./installer.sh ~/.vim/dein
+vim .vimrc
+vim .vimrc
+vim .vimrc
+ll
+la
+ls
+vim .zshrc
+source .zshrc
+ls
+mkdir -p .comfig/nvim
+cd .comfig/nvim
+ls
+cp ~/.vimrc ./init.vim
+ll
+cd
+vim .zshrc
+cd .comfig/nvim
+ls
+vim init.vim
+source .zshrc
+cd
+source .zshrc
+vim init.vim
+ls
+ls
+cd .comfig/nvim
+vim init.vim
+vim init.vim
+exit
+ls
+exit
+ls
+ls
+vim .config/nvim/init.vim
+mv .comfig .config
+source .zshrc
+history
+ls
+vim .config/nvim/init.vim
+ls
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+ls
+ll
+ls
+..
+mkdir ctf
+ll
+cd kawasaki
+ll
+mkdir ctf
+ls
+rm installer.sh
+ls
+ls
+mkdir bin
+ls
+cd bin
+ls
+ll
+ls
+cd ..
+ls
+ls
+tmux
+vim .tmux.conf
+vim .tmux.conf
+ls
+ls
+tmux
+tmux
+1;0c
+vim .tmux.conf
+tmux
+vim .tmux.conf
+exit
+exit
+ls
+vim install.md
+vim install.md
+vim install.md
+ls
+vim install.md
+vim install.md
+vim install.md
+source .zshrc
+vim
+vim install.md
+nvim install.md
+exit
+ls
+ls
+ls
+vim .tmux.conf
+vim .tmux.conf
+exit
+exit
+exit
+ls
+sudo apt install foremost
+ls
+tmux -v
+vim install.md
+ls
+vim .tmux.conf
+exit
+ls
+ls
+ls
+cd ctf
+ls
+rm
+ls
+ll
+ll
+ls
+ls
+vim install.md
+ls
+exit
+exit
+;s
+ll
+tmux
+tmux
+tmux
+vim .tmux.conf
+tmux
+vim .tmux.conf
+tmux
+tmux
+vim .tmux.conf
+vim .tmux.conf
+ls
+ls
+ls
+ll
+ls
+tmux 
+vim .tmux.conf
+tmux
+ls
+tmux
+ls
+ls
+ls
+ll
+la
+ls
+exit
+ls
+ls
+pip install --user powerline-status
+la
+ls
+vim .zsh
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+exit
+ls
+cd .local
+ls
+cd lib
+ls
+cd python3.7/site-packages
+ls
+ll
+la
+cd ..
+ls
+sudo pip install --user powerline-status
+pip install --user powerline-status
+ll
+cp -r ~/.pyenv/versions/3.7.3/lib/python3.7/site-packages ./
+ls
+cd site-packages
+ls
+rm -rf *
+ls
+..
+cd
+vim .zshrc
+vim .zshrc
+source .zshrc
+ls
+ls
+cd .pyenv/versions/3.7.3/lib/python3.7/
+ls
+cd site-packages/
+ls
+cd powerline
+ls
+ll
+vim config.py
+vim shell.py
+cd config_files
+ls
+vim config.json
+exit
+exit
+tmux -
+tmux -v
+pip install powerline-status
+ls
+vim install.md
+ls
+pip install powerline-status
+ls
+ls
+ll
+tmux
+ls
+vim .zshrc
+ls
+cd .pyenv/versions/3.7.3/lib/python3.7/
+ks
+ll
+cd site-packages
+ls
+cd powerline
+ls
+cd config_files
+ls
+ll
+vim vim co
+vim colors.json
+cd themes
+ls
+vim powerline.json
+..
+ls
+cd themes/shell
+ls
+vim default.json
+ll
+ls
+..
+..
+..
+..
+cp -r ./powerline ~/.config
+cd ~/.config
+ls
+cd powerline/
+ls
+ls
+ll
+cd segments
+ls
+..
+cd segments
+cd common
+ls
+..
+..
+cd config_files/themes
+ls
+ls
+ll
+ll
+ls
+cd ctf
+ls
+..
+ls
+ll
+cd ctf
+ls
+..
+ls
+ls
+ls
+ls
+ls
+ls
+ll
+ls
+ls
+ls
+cd .config/powerline
+ls
+cd them
+cd config_files/themes
+ls
+vim powerline.json
+vim powerline.json
+ls
+cd tmux
+ls
+cd ..
+ls
+cd shell
+ls
+ls
+vim default
+vim default.json
+l
+ls
+cd .config/powerline/config_files/themes
+ls
+cd shell
+ls
+vim default
+vim default.json
+ls
+exit
+exit
+\:q
+exit
+ls
+exit
+ls
+ll
+la
+cp .tmux.conf .tmux.conf.bak
+ls
+vim .tmux.conf
+tmux
+tmux
+exit
+\:q
+\:wq
+exit
+cd .config/powerline/config_files/themes
+ls
+cd tmux
+ls
+vim default.json
+..
+ls
+..
+..
+ls
+.
+cd
+;s
+ll
+ls
+ll
+ls
+vim .tmux.conf
+ls
+tmux
+ls
+ls
+vim .tmux.conf
+tmux
+vim .tmux.conf
+ls
+tmux
+ls
+vim .tmux.conf
+ls
+ls
+ls
+ll
+vim .zshrc
+ls
+tmux
+tmux
+ls
+vim .zshrc
+vim .zshrc
+source .zshrc
+exit
+ls
+ls
+ll
+exit
+ls
+tmux
+ls
+ls
+rm .tmux.conf
+mv .tmux.conf.bak .tmux.conf
+ls
+vim .zshrc
+ls
+ll
+la
+vim .zshrc
+vim .zshrc
+vim .zshrc
+vim .zshrc
+vim .zshrc
+ls
+cd .local/share/nvim/swap
+ls
+rm %home%kawasaki%.zshrc.swp
+cd
+vim .zshrc
+vim .vimrc
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vi .config/nvim/init.vim
+vim .config/nvim/init.vim
+vi .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+vim .config/nvim/init.vim
+ls
+ls
+ls
+ll
+ll
+ls
+ls
+vim .zshrc
+exit
+exit
+ll
+ls
+ll
+exit
+ls
+ls
+ls
+tmux
+ls
+tmux
+tmux -V
+;q
+ls
+ls
+ls
+ls
+vim .config/powerline/config_files/themes
+cd.config/powerline/config_files/themes
+cd .config/powerline/config_files/themes
+ls
+cd wm
+lws
+ks
+ls
+cd ..
+ls
+cd shell
+ls
+vim default.json
+..
+ls
+cd
+cd .pyenv/versions/3.7.3/lib/python3.7/site-packages/powerline/config_files/themes
+ls
+cd shell
+ls
+vim default.json
+exit
+exit
+exit
+exit
+ls
+cd ctf
+ls
+..
+ls
+cd .pyenv
+ls
+cd shims
+ls
+cd pydoc
+ll
+cd pyenv
+ll
+cd pyvenv
+..
+ls
+cd versions
+cd 3.7.3/
+ls
+ls
+ll
+la
+cd share
+ls
+exi
+exit
+vim .zshrc
+exit
+ls
+ll
+cd
+ls
+ls -la
+ls
+sl
+ls
+adduser a2uk1el
+sudo adduser a2uk1el
+ls
+gpasswd -a a2uk1el sudo
+sudo gpasswd -a a2uk1el sudo
+su a2uk1el

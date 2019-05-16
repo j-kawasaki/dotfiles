@@ -628,3 +628,30 @@ ls
 gpasswd -a a2uk1el sudo
 sudo gpasswd -a a2uk1el sudo
 su a2uk1el
+ls
+ls
+..
+ls
+cd kawasaki
+ls
+cd .ssh
+la
+cd .ssh
+chmod .ssh 700
+chmod 700 .ssh
+ls
+la
+cd dotfiles
+ls
+cd ..
+ls
+cd .ssh
+la
+cd ..
+rm -r .ssh
+la
+cd dotfiles
+cd .ssh
+la
+exsit
+exit

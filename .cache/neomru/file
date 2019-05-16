@@ -1,7 +1,8 @@
 0.3.0
-/home/kawasaki/dotfiles/.bash_history
-/home/kawasaki/dotfiles/.bash_logout
+/home/kawasaki/dotfiles/.gitignore
 /home/kawasaki/dotfiles/Makefile
+/home/kawasaki/dotfiles/.ssh/config
+/home/kawasaki/dotfiles/.bash_logout
 /home/kawasaki/dotfiles/README.md
 /home/kawasaki/.zshrc
 /home/kawasaki/.tmux.conf

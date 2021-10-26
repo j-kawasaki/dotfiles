@@ -655,3 +655,191 @@ cd .ssh
 la
 exsit
 exit
+ls
+vim .zshrc
+source .zshrc
+ls
+source .zshrc
+vim .zshrc
+source .zshrc
+ls
+ll
+ls
+ls
+ls
+man ln
+ls
+ls
+mkdir d
+la
+ls
+mkdir c
+ls -s c /mnt/c
+ls
+la
+ls
+cd c
+ls
+cd ..
+ls
+rm -r c
+ls
+l
+vim .zshrc
+vim .zshrc
+which rm
+ls
+rm -r d
+ln -s /mnt/c c
+ls
+ln -s /mnt/d d
+ls
+cd d
+ls
+cd ..
+cd ..
+ls
+ls
+cd
+ls
+cd bin
+ls
+ls
+cd ..
+ls
+cd dotfiles
+ls
+cd ..
+ls
+pip -v
+pip -V
+pip3 -V
+pip install opencv-contrib-python
+la
+ls
+cd dotfiles
+ls
+la
+git status
+git add .
+la
+vim .gitignore
+git add .
+git push origin master
+git config --global user.name "j-kawasaki"
+git config --global user.email "j-kawasaki@ist.osaka-u.ac.jp"
+cd ..
+ls
+cd ..
+ls
+c
+cd
+cd .ssh
+ls
+ssh-keygen
+ls
+cat id_rsa.pub
+git push origin master
+ls
+ll
+cd ..
+ls
+cd dotfiles
+ls
+git add
+git add .
+ls
+git push origin master
+git push origin master
+git push origin master
+git push origin master
+git push origin master
+git push origin master
+git push origin master
+ls
+ls
+ls
+make
+make update
+make list
+cd ..
+ls
+rm dotfiles
+rm -r  dotfiles
+rm -ri  dotfiles
+rm -rf  dotfiles
+git clone git@github.com:j-kawasaki/dotfiles.git
+ls
+git clone git@github.com:j-kawasaki/dotfiles.git
+ls
+la
+ll
+git clone git@github.com:j-kawasaki/dotfiles.git
+ls
+cd ..
+ls
+la
+cd a2uki
+ls
+.ssh
+cd .ssj
+cd .ssh
+mkdir .ssh
+unlink .ssh
+mkdir .ssh
+cd .ssh
+ls
+ssh-keygen
+ls
+vim .config
+vim .config
+ls
+cd ..
+ls
+cd .ssh
+cat id_rsa.pub
+cd
+git clone git@github.com:j-kawasaki/dotfiles.git
+ls
+cd dotfiles
+ls
+make init
+ls
+make
+make deploy
+cd ..
+ls
+ls
+la
+ls
+ll
+la
+vim .zshrc
+ls
+vim .config/nvim/init.vim
+vim .zshrc
+ls
+cd .config
+ls
+rm powerline 
+ls
+cd ..
+ls
+cd go
+ls
+ cd..
+cd ..
+ls
+ls
+ls
+la
+ls
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+la
+ls
+vim .zshrc
+source .zshrc
+vim .fzf.zsh

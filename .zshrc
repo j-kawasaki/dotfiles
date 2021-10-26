@@ -10,23 +10,6 @@ zplug "zsh-users/zsh-completions"
 zplug "chrissicool/zsh-256color"
 
 
-# Powerline関係
-#zplug "b-ryan/powerline-shell"
-#function powerline_precmd() {
-#	PS1="$(powerline-shell --shell zsh $?)"
-#}
-#function install_powerline_precmd() {
-#	for s in ${precmd_functions[@]}; do
-#	if [ "$s" = "powerline_precmd" ]; then
-#		return
-#	fi
-#	done
-#	precmd_functions+=(powerline_precmd)
-#}
-#if [ "$TERM" != "linux" ]; then
-#	install_powerline_precmd
-#fi
-
 # Install plugins if there are plugins that have not been installed
 if ! zplug check --verbose; then
 	printf "Install? [y/N]: "
@@ -54,20 +37,33 @@ HISTSIZE=100000
 SAVEHIST=1000000
 
 # path設定
-export PYENV_ROOT="$HOME/.pyenv"
-export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
 
 # powerline
-export PATH=$HOME/.local/bin/:$PATH
-powerline-daemon -q
-. $PYENV_ROOT/versions/3.7.3/lib/python3.7/site-packages/powerline/bindings/zsh/powerline.zsh
+GOPATH=$HOME/go
+funcion powerline_precmd() {
+    PS1="$($GOPATH/bin/powerline-go -error $? -jobs ${${(%):%j}:-0})"
 
+    # Uncomment the following line to automatically clear errors after showing
+    # them once. This not only clears the error for powerline-go, but also for
+    # everything else you run in that shell. Don't enable this if you're not
+    # sure this is what you want.
 
+    #set "?"
+}
+function install_powerline_precmd() {
+  for s in "${precmd_functions[@]}"; do
+    if [ "$s" = "powerline_precmd" ]; then
+      return
+    fi
+  done
+  precmd_functions+=(powerline_precmd)
+}
+if [ "$TERM" != "linux" ] && [ -f "$GOPATH/bin/powerline-go" ]; then
+    install_powerline_precmd
+fi
 
 # neovim
 export XDG_CONFIG_HOME=~/.config
-
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 

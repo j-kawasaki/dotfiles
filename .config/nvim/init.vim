@@ -159,15 +159,15 @@ if &compatible
 endif
 
 " Required:
-set runtimepath+=/home/kawasaki/.vim/dein/repos/github.com/Shougo/dein.vim
+set runtimepath+=$HOME/.vim/dein/repos/github.com/Shougo/dein.vim
 
 " Required:
-if dein#load_state('/home/kawasaki/.vim/dein')
-  call dein#begin('/home/kawasaki/.vim/dein')
+if dein#load_state('$HOME/.vim/dein')
+  call dein#begin('$HOME/.vim/dein')
 
   " Let dein manage dein
   " Required:
-  call dein#add('/home/kawasaki/.vim/dein/repos/github.com/Shougo/dein.vim')
+  call dein#add('$HOME/.vim/dein/repos/github.com/Shougo/dein.vim')
 
   " Add or remove your plugins here like this:
   "call dein#add('Shougo/neosnippet.vim')

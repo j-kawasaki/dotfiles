@@ -843,3 +843,70 @@ ls
 vim .zshrc
 source .zshrc
 vim .fzf.zsh
+ls
+ll
+ls
+ls
+ls
+sudo apt install nodejs
+ls
+source .zshrc
+ls
+vim
+ls
+cd .vim/dein/repos/github.com/neoclide
+yarn install
+sudo apt install yarn
+ls
+yarn install
+ls
+cd ..
+ls
+ls
+vim
+vim
+ls
+pwd
+cd ..
+cd ..
+ls
+ls
+cd
+ls
+cd .config/nvim
+ls
+cd
+cd .vim/dein
+ls
+la
+cd .cache/init.vim/rollbacks/nvim
+ls
+cd ..
+cd..
+cd ..
+ls
+cd ..
+ks
+\ls
+ls
+cd ..
+ls
+cd repos
+ls
+cd github.com/
+vim
+ls
+cd neoclide
+ls
+cd coc.nvim
+ls
+yarn install
+cd src
+ls
+cd ..
+ls
+cat README.md
+ls
+nodejs -v
+cd
+exit

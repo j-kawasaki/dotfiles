@@ -41,7 +41,7 @@ SAVEHIST=1000000
 # powerline
 GOPATH=$HOME/go
 funcion powerline_precmd() {
-    PS1="$($GOPATH/bin/powerline-go -error $? -jobs ${${(%):%j}:-0})"
+    PS1="$($GOPATH/bin/powerline-go -error $? -modules "user,host,git,hg,jobs,root" -jobs ${${(%):%j}:-0})"
 
     # Uncomment the following line to automatically clear errors after showing
     # them once. This not only clears the error for powerline-go, but also for
